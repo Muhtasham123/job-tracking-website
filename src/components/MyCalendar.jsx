@@ -1,5 +1,4 @@
 import React from 'react'
-import 'react-calendar/dist/Calendar.css'
 import {Calendar} from 'react-calendar'
 import {useState, useContext} from 'react'
 import {context} from "../contexts/ContextProvider"
